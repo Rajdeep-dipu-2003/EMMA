@@ -21,6 +21,6 @@ EMMA’s got your back!
 🌟 **Empathetic & Supportive** – She gets you. No judgment, just vibes.  
 😂 **Funny & Lighthearted** – Because socializing should be fun, not scary!  
 🏢 **Realistic Office Environment** – Perfect for practicing workplace interactions.  
-💡 **Smart & Adaptive** – Learns from conversations to give better responses.  
+ 
 
 ![image](https://github.com/Rajdeep-dipu-2003/EMMA/blob/f206886ce79409cb6dd06fc34314a460d157586f/emma.jpeg)
