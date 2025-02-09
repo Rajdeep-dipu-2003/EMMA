@@ -306,5 +306,5 @@ const audioFileToBase64 = async (file) => {
 };
 
 app.listen(port, () => {
-  console.log(`Virtual Girlfriend listening on port ${port}`);
+  console.log(`Emma listening on port ${port}`);
 });
